@@ -1,0 +1,178 @@
+.call {
+    background-color: rgb(255, 171, 65);
+}
+
+.bengeng {
+    background-color: rgb(48, 101, 107);
+}
+
+h3 {
+    color: #ffab41;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 15px;
+}
+
+.our {
+    background-color: rgb(48, 101, 107);
+    margin-top: 50px;
+}
+
+.logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.hinh1 {
+    width: 557px;
+    height: 350px;
+}
+
+.banner {
+    border: solid black;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.come {
+    background-color: rgb(255, 171, 65);
+}
+
+.hinh2 {
+    padding-top: 20px;
+}
+
+.button {
+    border: 1px white solid;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin-left: 520px;
+    color: white;
+}
+
+.come {
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+
+.chu1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    color: #30656b;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.and {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.great {
+    background-color: rgb(255, 171, 65);
+    padding-top: 30px;
+    ;
+}
+
+.nut {
+    border: 1px white solid;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}
+
+.chu2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-bottom: 15px;
+}
+
+.tahu {
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #555555;
+
+}
+
+.tien {
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(48, 101, 107);
+}
+
+.hinh3 {
+
+    width: 100%;
+    display: block;
+    height: 360px;
+}
+
+.chu5 {
+
+    padding-top: 30px;
+}
+
+.lorem {
+    font-size: 25px;
+}
+
+.chu3 {
+    font-size: 30px;
+    color: #ffab41;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.trang {
+    background-color: white;
+    padding-top: 30px;
+}
+
+.ipsum {
+    font-size: x-large;
+    padding-top: 10px;
+}
+
+.nasi {
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+    color: #555555;
+}
+
+.hinh10 {
+    width: 475px;
+}
+
+.mot {
+    padding-bottom: 55px;
+}
+
+.hai {
+    padding-top: 55px;
+    padding-bottom: 60px;
+}
+
+.about {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.nut:hover {
+    background-color: rgb(242, 150, 31);
+    color: white;
+}
+
+.button:hover {
+    background-color: rgb(242, 150, 31);
+    color: white;
+}
